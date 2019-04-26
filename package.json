@@ -1,0 +1,25 @@
+{
+  "name": "prepend-www",
+  "version": "1.0.0",
+  "description": "Prepend `www` to URLs",
+  "license": "MIT",
+  "repository": "jalalazimi/prepend-www",
+  "author": {
+    "name": "Jalal Azimi",
+    "email": "jalalazimi@gmail.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "prepend",
+    "protocol",
+    "scheme",
+    "url",
+    "uri",
+    "www"
+  ]
+}
