@@ -1,6 +1,6 @@
 {
   "name": "prepend-www",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Prepend `www` to URLs",
   "license": "MIT",
   "repository": "jalalazimi/prepend-www",
