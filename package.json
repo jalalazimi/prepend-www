@@ -8,6 +8,9 @@
     "name": "Jalal Azimi",
     "email": "jalalazimi@gmail.com"
   },
+  "scripts": {
+    "test": "xo && ava"
+  },
   "engines": {
     "node": ">=4"
   },
@@ -21,5 +24,9 @@
     "url",
     "uri",
     "www"
-  ]
+  ],
+  "devDependencies": {
+    "ava": "^1.4.1",
+    "xo": "^0.24.0"
+  }
 }
