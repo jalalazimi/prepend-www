@@ -1,4 +1,4 @@
-# prepend-www ![Travis (.org)](https://img.shields.io/travis/jalalazimi/prepend-www.svg)
+# prepend-www ![Travis (.org)](https://travis-ci.com/jalalazimi/prepend-www.svg?branch=master)
 Prepend `http://www.` to URLs
 
 
