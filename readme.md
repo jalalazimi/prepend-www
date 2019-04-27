@@ -55,4 +55,4 @@ Prepend `https://www.` instead of `http://www.`.
 
 ## License
 
-MIT © [Jalal Azimi](jalalazimi@gmail.com)
+MIT © [Jalal Azimi](mailto:jalalazimi@gmail.com)
